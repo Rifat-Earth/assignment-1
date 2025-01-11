@@ -133,4 +133,61 @@
     margin: 5px;
     color: white;
 }
-
+/* Recent news */
+.recent{
+    /* display: flex; */
+    height: 40px; 
+    border: none;
+    align-items:center; 
+    margin: 30px;
+    padding: 20px;
+    border-radius: 24px;
+}
+.pera-2{
+    font-size: 14px;
+}
+.Satellite{
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+}
+.third{
+    display: flex;
+    height: 60px; 
+    border: none;
+    /* align-items:center;  */
+    margin: 30px;
+    padding: 20px;
+    border-radius: 24px;
+    margin-top: 10px;
+}
+.resize{
+    border:none;
+    border-radius:10px;
+    padding: 10px;
+}
+.h4{
+    margin-bottom:5px;
+}
+.pera-3{
+   font-size: 10px; 
+}
+.date{ 
+ font-size: 10px;
+ margin-bottom: 5px;  
+ } 
+.jaz{
+    /* height: 30px; */
+    width: 60px;
+    margin-bottom: 10px;
+}
+.third-button{
+    text-align: center;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
