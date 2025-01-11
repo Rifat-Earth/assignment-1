@@ -56,3 +56,81 @@
     margin-top: 10px;
     font-size: 10px;
 }
+/* The vision of future */
+.ban{
+    font-size: 12px;
+    /* padding: 10px;
+    margin: 20px; */
+    padding: 5px;
+}
+.vision{
+    margin: 40px;
+    /* padding: 10px; */
+    justify-content: center;
+}
+.card-1{
+    align-items: center;
+    margin: 10px;
+    border:none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.card-2{
+    align-items: center;
+    margin: 10px;
+    border:none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(198, 228, 214);
+}
+.card-3{
+    align-items: center;
+    margin: 10px;
+    border:none;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:rgb(247, 235, 207);
+}
+.next{
+    display: flex;
+    height: 100px; 
+    border: red;
+    align-items:center; 
+    margin-top: 40px;
+    /* padding: 20px;  */
+    border-radius: 24px;
+    justify-content: space-around;
+    width: 100%;
+}
+.pera{
+    font-size: 12px;
+    padding: 5px;
+}
+.photo{
+    width: 50px;
+    height: 40px;
+}
+.btn1{
+    border: none;
+    border-radius: 5px;
+   background-color: rgb(84, 144, 245);
+   padding: 5px;
+   margin: 5px;
+}
+.btn2{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(9, 161, 92);
+    padding: 5px;
+    margin: 5px;
+}
+.btn3{
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(255, 194, 57);
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+
