@@ -156,7 +156,6 @@
     display: flex;
     height: 220px; 
     border: none;
-    /* align-items:center;  */
     margin: 30px;
     padding: 0px;
     border-radius: 24px;
@@ -205,6 +204,72 @@
 }
 .resize-again{
     margin-top:30px;
-    /* display: inline; */
-    /* position: relative; */
+}
+.last{
+    max-width: 100%;
+    height: 220px;
+    margin: 30px;
+    padding: 20px;
+    align-items: center;
+    background-color: #f0f8ff;
+    border-radius: 20px;
+}
+.donate{
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+}
+.aim{
+    padding: 5px;
+    font-size: 10px;
+    /* justify-content: center; */
+    margin: 10px;
+}
+.center{
+    text-align: center;
+}
+.inline{
+    display: flex;
+    justify-content: space-evenly; 
+    margin-bottom: 5px;
+    text-align: center;
+}
+.mc{
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+.taka{
+    padding: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    box-shadow: grey;
+    background-color: white;
+}
+.in{
+padding: 2px;
+/* width: 100%; */
+}
+.bc{
+    text-align: center;
+}
+.done{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    font-size: 10px;
+}
+.boro{
+    width: 100%;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    font-size: 10px;
 }
