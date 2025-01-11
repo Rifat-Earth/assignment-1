@@ -273,3 +273,45 @@ padding: 2px;
     border-radius: 2px;
     font-size: 10px;
 }
+.bonus{
+    margin: 30px;
+    padding: 20px;
+    border: noner;
+    border-radius: 10px;
+    background-color: rgb(198, 228, 214);
+}
+.sub{
+    text-align: center;
+}
+.ses{
+    text-align: center;
+    padding: 10px;
+}
+.you{
+    text-align: center;
+    padding: 10px;
+
+}
+.too{
+    text-align: left;
+    width: 70%;
+    border: none;
+    font-size: 12px;
+    border-radius: 5px;
+}
+.ki{
+    padding: 2px;
+}
+.not{
+    text-align: center;
+    margin-top: 5px;
+}
+.top{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(0, 106, 80);
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 2px;
+}
