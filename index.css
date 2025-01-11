@@ -21,3 +21,38 @@
   border-radius: 5px;
   color: green;
 }
+/* banner style */
+.banner{
+    display: flex;
+    /* width: 70%;  */
+    height: 300px; 
+    border: 1px solid red;
+    align-items:center; 
+    margin: 40px;
+    padding: 20px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214); 
+    justify-content: space-between; 
+}
+.banner-content{
+ padding: 10px;
+}
+.image{
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bd{
+    margin-bottom: 10px;
+    color: rgba(14, 14, 14, 0.5);
+}
+.button{
+    padding: 5px;
+    background-color:rgb(0, 106, 80);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 10px;
+    font-size: 10px;
+}
