@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+/* navbar */
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navh{
+    margin: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+.hbtn{
+  margin: 20px;
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid green;
+  border-radius: 5px;
+  color: green;
+}
